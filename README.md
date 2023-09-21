@@ -1,7 +1,7 @@
 # 🍓🍅来都来了
 <h1 align="center">  < img src="images/touxiang.jpg">  </h1>
 <a href="https://github.com/qdylfine/computer-vision-in-action">
-    < img align="right" src="https://komarev.com/ghpvc/?username=qdylfine&label=Visitors&color=red&style=flat&logo=github" alt="gtihub-visitors" />
+    < img align="right" src="images/touxiang.jpg" />
 </a >
  
 ## Hi, 👋  I'm 
