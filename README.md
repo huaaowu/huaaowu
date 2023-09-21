@@ -1,19 +1,19 @@
 # 🍓🍅来都来了
-<h1 align="center">  < img src="https://readme-typing-svg.herokuapp.com/?lines=(%22Hello%2C%20World!%22);祝您今天愉快!&center=true&size=27">  </h1>
+<h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=(%22Hello%2C%20World!%22);祝您今天愉快!&center=true&size=27"> </a> </h1>
 <a href="https://github.com/qdylfine/computer-vision-in-action">
-    < img align="right" src="https://komarev.com/ghpvc/?username=qdylfine&label=Visitors&color=red&style=flat&logo=github" alt="gtihub-visitors" />
-</a >
+    <img align="right" src="https://komarev.com/ghpvc/?username=qdylfine&label=Visitors&color=red&style=flat&logo=github" alt="gtihub-visitors" />
+</a>
  
-## Hi, 👋  I'm 
+## Hi, 👋  I'm <a href="http://welcome.voup.cn">ZhangHan</a>
  
-< img align="right" alt="GIF" src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="84" title="Say HI"> <details><summary>(点击展开) <em><b>I love connecting with different people</b> so if you want to , <b>I'll be happy to meet you more!</b> : )</em></summary>
+<img align="right" alt="GIF" src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="84" title="Say HI"> <details><summary>(点击展开) <em><b>I love connecting with different people</b> so if you want to <a href="https://voup.cn" >say <b>"hi" </b></a>, <b>I'll be happy to meet you more!</b> : )</em></summary>
  
 <!--my introduction start-->
     
 - 姓名 张寒
 - 性别 女
 - 学校 中国海洋大学（OUC）
-- ❤ 喜欢看小说 🍉追综艺,🎸听音乐,👉追星人一枚， 1⃣7⃣&🐇（懂暗号之人一起玩啊！）
+- ❤️ 喜欢看小说 🍉追综艺,🎸听音乐,👉追星人一枚， 1️⃣7️⃣&🐇（懂暗号之人一起玩啊！）
   
 ---
 </details>
@@ -28,17 +28,44 @@
  
 <p align="center">
   <a href="https://github.com/qdylfine" class="rich-diff-level-one">
-    < img src="https://github-readme-stats.vercel.app/api?username=qdylfine&title_color=333&text_color=777" alt="qdylfine's Stats" >
+    <img src="https://github-readme-stats.vercel.app/api?username=qdylfine&title_color=333&text_color=777" alt="qdylfine's Stats" >
     <!-- &hide=issues
-    < img src="https://github-readme-stats.vercel.app/api?username=qdylfine&hide=issues&title_color=333&text_color=777" alt="qdylfine's Stats" >
+    <img src="https://github-readme-stats.vercel.app/api?username=qdylfine&hide=issues&title_color=333&text_color=777" alt="qdylfine's Stats" >
     -->
-  </a >
-</p >
+  </a>
+</p>
  
 <p align="center">
    <a href= "./images1/1-1.jpg" height="50%" width="50%" target="_blank" alt="WeChat" title="WeChat">
-    < img src="https://img.icons8.com/ios-filled/50/000000/weixing.png" width="28px"/>
-  </a >
+    <img src="https://img.icons8.com/ios-filled/50/000000/weixing.png" width="28px"/>
+  </a>
   &emsp;
       <a href="https://blog.csdn.net/qdylfine?type=blog" target="_blank" alt="CSDN" title="CSDN">
-        < img src="https://img
+        <img src="https://img.icons8.com/material/48/000000/csdn.png" width="30px"/>
+  </a>
+  <br><br>
+  <strong>Check out my work below!</strong>
+  <br><br>
+  <a href="https://github.com/qdylfine">
+    <img src="https://badges.strrl.dev/visits/qdylfine/qdylfine?style=flat-square&color=black&logo=github">
+  </a>
+  <a href="https://github.com/qdylfine">
+    <img src="https://badges.strrl.dev/years/qdylfine?style=flat-square&color=black&logo=github">
+  </a>
+  <a href="https://github.com/qdylfine?tab=repositories">
+    <img src="https://badges.strrl.dev/repos/qdylfine?style=flat-square&color=black&logo=github">
+  </a>
+  <a href="https://gist.github.com/qdylfine">
+    <img src="https://badges.strrl.dev/gists/qdylfine?style=flat-square&color=black&logo=github">
+  </a>
+  <a href="https://github.com/qdylfine">
+    <img src="https://badges.strrl.dev/commits/monthly/qdylfine?style=flat-square&color=black&logo=github">
+  </a>
+</p>
+ 
+<h2></h2>
+ 
+<img align="right" alt="GIF" src="OctoCharmve/code.gif" width="343" height="220" title="Do what you like, and do it best!"> &nbsp;&nbsp;&nbsp;&nbsp;
+ 
+</td></tr>
+ 
