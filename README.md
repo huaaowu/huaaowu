@@ -28,13 +28,12 @@
 <br>
 
 
+
+
  
 <p align="center">
-  <a href="https://github.com/huaaohu" class="rich-diff-level-one">
-    <img src="https://github-readme-stats.vercel.app/api?username=huaaohu&title_color=333&text_color=777" alt="qdylfine's Stats" >
-    <!-- &hide=issues
-    <img src="https://github-readme-stats.vercel.app/api?username=huaaohu&hide=issues&title_color=333&text_color=777" alt="qdylfine's Stats" >
-    -->
+  <a href="https://github.com/huaaowu" class="rich-diff-level-one">
+    <img src="https://github-readme-stats.vercel.app/api?username=huaaowu&title_color=333&text_color=777" alt="huaaowu's Stats" >
   </a>
 </p>
  
@@ -45,20 +44,20 @@
   <br><br>
   <strong>Check out my work below!</strong>
   <br><br>
-  <a href="https://github.com/qdylfine">
-    <img src="https://badges.strrl.dev/visits/qdylfine/qdylfine?style=flat-square&color=black&logo=github">
+  <a href="https://github.com/huaaowu">
+    <img src="https://badges.strrl.dev/visits/huaaowu/huaaowu?style=flat-square&color=black&logo=github">
   </a>
-  <a href="https://github.com/qdylfine">
-    <img src="https://badges.strrl.dev/years/qdylfine?style=flat-square&color=black&logo=github">
+  <a href="https://github.com/huaaowu">
+    <img src="https://badges.strrl.dev/years/huaaowu?style=flat-square&color=black&logo=github">
   </a>
-  <a href="https://github.com/qdylfine?tab=repositories">
-    <img src="https://badges.strrl.dev/repos/qdylfine?style=flat-square&color=black&logo=github">
+  <a href="https://github.com/huaaowu?tab=repositories">
+    <img src="https://badges.strrl.dev/repos/huaaowu?style=flat-square&color=black&logo=github">
   </a>
-  <a href="https://gist.github.com/qdylfine">
-    <img src="https://badges.strrl.dev/gists/qdylfine?style=flat-square&color=black&logo=github">
+  <a href="https://gist.github.com/huaaowu">
+    <img src="https://badges.strrl.dev/gists/huaaowu?style=flat-square&color=black&logo=github">
   </a>
-  <a href="https://github.com/qdylfine">
-    <img src="https://badges.strrl.dev/commits/monthly/qdylfine?style=flat-square&color=black&logo=github">
+  <a href="https://github.com/huaaowu">
+    <img src="https://badges.strrl.dev/commits/monthly/huaaowu?style=flat-square&color=black&logo=github">
   </a>
 </p>
  
