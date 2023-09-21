@@ -1,46 +1,45 @@
-# 🍓🍅来都来了
-<h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=(%22Hello%2C%20World!%22);祝您今天愉快!&center=true&size=27"> </a> </h1>
+# 🧐🧐🧐欢迎来到滑稽主页
+<h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=(%22Hello%2C%20Friend!%22);看看滑稽！&center=true&size=27"> </a> </h1>
 <a href="https://github.com/qdylfine/computer-vision-in-action">
     <img align="right" src="https://komarev.com/ghpvc/?username=qdylfine&label=Visitors&color=red&style=flat&logo=github" alt="gtihub-visitors" />
 </a>
  
-## Hi, 👋  I'm <a href="http://welcome.voup.cn">ZhangHan</a>
+## (｡･∀･)ﾉﾞHi,I'm <a href="http://welcome.voup.cn">ZhangXinzi</a>🥰🥰🥰
  
-<img align="right" alt="GIF" src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="84" title="Say HI"> <details><summary>(点击展开) <em><b>I love connecting with different people</b> so if you want to <a href="https://voup.cn" >say <b>"hi" </b></a>, <b>I'll be happy to meet you more!</b> : )</em></summary>
- 
-<!--my introduction start-->
-    
-- 姓名 张寒
-- 性别 女
-- 学校 中国海洋大学（OUC）
-- ❤️ 喜欢看小说 🍉追综艺,🎸听音乐,👉追星人一枚， 1️⃣7️⃣&🐇（懂暗号之人一起玩啊！）
   
 ---
 </details>
+
+<p>●关于我</p>
+<p>我的名字是张欣姿，一个既社恐又社牛的人。社恐在于面对很多不熟的人时，只想待在角落，尽量降低自己的存在感😢😢😢；社牛在于，当和好朋友在一起时，会显现出滑稽属性。🤣🤣🤣 </p>
+<p>我喜欢旅行和美食，已经去过的城市有：广州、珠海、长沙、大理、香格里拉、萍乡、南京、武汉、重庆、成都、景德镇、婺源。其中景色最美的城市是香格里拉和大理😍，最好吃的城市是长沙🤤我觉得旅行的意义在于和
+  好朋友去看不同的风景。哪怕背着29.9的双肩包，素面朝天站在海拔3700米的普达措公园，在武功山5点守着看日出，在景德镇街头花4块钱吃油条包麻糍，和朋友去各个地方打卡拍照，我都会很开心，每次回忆起都很开心。</p>
   
- - ✨ 自我评估：目前是一名大三的学生，在过去的两年里一直想认真努力的把大学生活过得有趣且满意。目前来说，个人成绩还不算特别突出，但也有了点小小的成就，第一学年获得社会实践奖学金，第二学年获得综合三等奖学金。也努力的在参加社会实践活动，曾参与了鲁喀专项活动，获得线上志愿活动43小时。但其实目前来说，对于专业知识，专业技能的掌握，我其实并没有很突出，只对于基本的C语言，C++掌握较好，而Java，Python都还学的较浅，并不能很好的运用。
- - 🍦未来规划：对于未来，我其实已经想好了要参与到考研大军里去，不管结果如何，都还是想争取一下。近一点的呢，就是想要在这一学年好好努力，每一门课都能好好地通过，不挂科，得到优秀成绩。
+<p>●自我评估</p>
+<p>我会使用的语言有C语言和Python，目前已经学习了移动软件开发，会写一些简单的小程序。但是对于PC端软件以及手机端软件开发了解基本为0。在移动软件开发课程上，写过一个自己的小程序。项目经验较为欠缺，也没参加过什么科研竞赛
+，我需要适当参加竞赛，以丰富自己的经历。</p>
+
+<p>●未来规划</p>
+<p>未来三年打算继续升学。目前想选择一个南方城市的大学，然后待在南方发展。目前还没有想清楚自己最想走的路是什么样的路，所以选择继续升学，提高自己的水平，让未来的自己在面对生活抉择时，能有更多的选项。</p>
  
  
 <!--my introduction end -->
  
 <br>
+
+
  
 <p align="center">
-  <a href="https://github.com/qdylfine" class="rich-diff-level-one">
-    <img src="https://github-readme-stats.vercel.app/api?username=qdylfine&title_color=333&text_color=777" alt="qdylfine's Stats" >
+  <a href="https://github.com/huaaohu" class="rich-diff-level-one">
+    <img src="https://github-readme-stats.vercel.app/api?username=huaaohu&title_color=333&text_color=777" alt="qdylfine's Stats" >
     <!-- &hide=issues
-    <img src="https://github-readme-stats.vercel.app/api?username=qdylfine&hide=issues&title_color=333&text_color=777" alt="qdylfine's Stats" >
+    <img src="https://github-readme-stats.vercel.app/api?username=huaaohu&hide=issues&title_color=333&text_color=777" alt="qdylfine's Stats" >
     -->
   </a>
 </p>
  
 <p align="center">
-   <a href= "./images1/1-1.jpg" height="50%" width="50%" target="_blank" alt="WeChat" title="WeChat">
-    <img src="https://img.icons8.com/ios-filled/50/000000/weixing.png" width="28px"/>
-  </a>
-  &emsp;
-      <a href="https://blog.csdn.net/qdylfine?type=blog" target="_blank" alt="CSDN" title="CSDN">
+      <a href="https://blog.csdn.net/m0_62996460?type=bbs" target="_blank" alt="CSDN" title="CSDN">
         <img src="https://img.icons8.com/material/48/000000/csdn.png" width="30px"/>
   </a>
   <br><br>
